@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# https://github.com/jcsalterego/pngpaste
+# brew install pngpaste
+
+git add .
+git commit -m '.'
+git push
